@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Luan 🙋🏼‍♂️</h1>
-<h3 align="center">A linguist who is also on his way to become a good developer 👨🏼‍💻✨</h3>
+<h3 align="center">A linguist who is also on his way to become a (good) developer 👨🏼‍💻✨</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/5a/80/6e/5a806e81c44f06b09b6b82d7d3421a44.gif">
 
 - 🔭 I’m currently working on [the website for SECOMP (my university's Computer Science Week)]
