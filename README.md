@@ -1,10 +1,10 @@
 <h1 align="center">Hey there! I'm Luan 🙋🏼‍♂️</h1>
-<h3 align="center">A linguist on his way to becoming a (good) developer 👨🏼‍💻✨</h3>
+<h3 align="center">A linguist on his way to becoming a (good) iOS and Backend developer 👨🏼‍💻✨</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/5a/80/6e/5a806e81c44f06b09b6b82d7d3421a44.gif">
 
-- 🔭 I’m currently working on the website for SECOMP (my university's Computer Science Week)
+- 🔭 I spend half of my day working as a Backend developer and another as an iOS development student at the Apple Developer Academy
 
-- 🌱 I’m currently learning **HTML, CSS, C# and TensorFlow (on projects and on Codecademy!)**
+- 🌱 I'm pursuing an undergraduation course in Computer Science, and I'm always interested in learning about architectures, good practices, new frameworks and how things happen behind the curtains in the coding world
 
 - 🦄 Besides Computer Science and Linguistics, I'm also super interested in poetry, open world games, board games, '90s anime, perfumes, nail art, music from the '80s and learning languages
 
